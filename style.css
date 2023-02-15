@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: rgb(229, 231, 241);
+    background-image: url("JacobMagcawas22.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+}
+  h1 {
+    
+    color: rgb(0, 0, 0);
+    font-family:"Candara Light";
+    font-size:xx-large;
+    text-align: center;
+    padding:40px;
+}
+
+  p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+  }
+.dark {
+    background-color: black;
+    color:white;
+    }
+.light{
+    background-color: white;
+    color: black;
+}
+#my-special-font {
+    font-family:"Candara Light";
+    color: rgb(10, 1, 1);
+}
+ul.myUL {
+    display: inline-block;
+    text-align: center;
+  }
+img#profile-picture {
+    padding:40px;
+    border-radius: 80%;
+    width: 350px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
